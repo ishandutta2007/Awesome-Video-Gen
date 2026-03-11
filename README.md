@@ -103,5 +103,12 @@ Star the repo if you find it useful!
 
 ---
 
+## ✨ Star History
+
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Video-Gen&type=date&legend=bottom-right)](https://www.star-history.com/#ishandutta2007/Awesome-Video-Gen&type=date&legend=bottom-right)
+
+---
+
 **Made for creators, marketers, filmmakers, and AI builders.**  
 Let's make video production 10x faster and more accessible.
