@@ -22,45 +22,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Full AI Video Agents / Avatar Workflows)
 
-- **[Argil](https://www.argil.ai/)**  
-  Leading AI video agent for creators and brands. Upload one photo + 1 min voice to clone yourself (or use generic avatars). Agentic workflow: idea/article → auto-script → full video with B-roll, captions, music, and editing in minutes. Perfect for UGC, LinkedIn shorts, influencers, and commercial campaigns. Scalable AI influencers built-in.
-
-- **[Synthesia](https://www.synthesia.io/)**  
-  Enterprise-grade AI avatar video platform. Text-to-video with 230+ realistic avatars, 160+ languages, voiceovers, templates, and analytics. Agentic features for training, internal comms, marketing, and localization. SCORM-compliant and SOC 2 secure. Market leader for business video.
-
-- **[HeyGen](https://www.heygen.com/)**  
-  Fastest-growing AI video agent for marketing/sales. Text/image/audio → complete videos with 500+ avatars, photo/video cloning, instant translation, and multi-language voiceovers. Strong agentic automation for personalized outreach, ads, and explainers. Free tier available.
-
-- **[Vidnoz](https://www.vidnoz.com/)**  
-  Best free-tier AI video generator with agentic tools. 1,900+ avatars, 2,800+ templates, 2,000+ voices. Text-to-video, image-to-video, talking photos, news-style videos, and music videos. Fully automated workflow from prompt to polished output. Great for beginners and high-volume creators.
-
-- **[Zoice](https://zoice.com/)**  
-  Top Argil alternative focused on hyper-stable AI avatars and social media videos. Strong motion consistency, facial accuracy, and long-form generation. Agentic features for quick iterations and professional output.
+| Name | First Accelerator | Description |
+| :--- | :--- | :--- |
+| **[Argil](https://www.argil.ai/)** | **YC** (S24) | Leading AI video agent for creators and brands. Clone yourself with 1 min voice/photo. Agentic workflow: idea/article → auto-script → polished video. |
+| **[Synthesia](https://www.synthesia.io/)** | None | Enterprise-grade AI avatar platform. 230+ realistic avatars, 160+ languages. Market leader for business training and internal comms. |
+| **[HeyGen](https://www.heygen.com/)** | None | Fast-growing AI video agent for marketing/sales. 500+ avatars, instant translation, and multi-language voiceovers. |
+| **[Vidnoz](https://www.vidnoz.com/)** | None | Best free-tier AI video generator. 1,900+ avatars and 2,800+ templates. Fully automated workflow from prompt to output. |
+| **[Zoice](https://zoice.com/)** | None | Top Argil alternative focused on hyper-stable AI avatars and social media videos. Strong motion consistency and facial accuracy. |
 
 ### Advanced & Creative Video Agents
 
-- **[Runway](https://runwayml.com/)** (Gen-4)  
-  Professional-grade AI video agent with cinematic control. Text/image-to-video, advanced editing, motion brush, and multi-step workflows. Used by filmmakers and studios for high-quality, creative video generation.
-
-- **[Kling AI](https://klingai.com/)**  
-  Photorealistic human motion and physics-aware video agent. Excellent for realistic characters and complex scenes. Agentic prompt understanding with strong consistency.
-
-- **[Colossyan](https://www.colossyan.com/)**  
-  AI video agent specialized in corporate training and interactive scenarios. Scenario-based avatars, SCORM export, and multi-language support.
+| Name | First Accelerator | Description |
+| :--- | :--- | :--- |
+| **[Runway](https://runwayml.com/)** | None | Professional-grade AI video agent with cinematic control (Gen-3, Gen-4). Used by filmmakers and studios. |
+| **[Kling AI](https://klingai.com/)** | None (Kuaishou) | Photorealistic human motion and physics-aware video agent. Excellent for realistic characters and complex scenes. |
+| **[Colossyan](https://www.colossyan.com/)** | **APX** (2019) / **YC** | Specialized in corporate training and interactive scenarios. Scenario-based avatars and SCORM support. |
 
 ### Specialized & Workflow Agents
 
-- **[Elai.io](https://elai.io/)**  
-  Presentation-to-video and script-to-video agent with 450+ accents and emotion-preserving cloning.
-
-- **[D-ID](https://www.d-id.com/)**  
-  Real-time talking-head video agent. Image + script → streaming avatars. Great for interactive video.
-
-- **[Fliki](https://fliki.ai/)**  
-  Text-to-video agent with lifelike voiceovers, B-roll, and social-ready editing (YouTube Shorts, Reels, TikTok).
-
-- **[Veed.io AI](https://www.veed.io/tools/ai-video)**  
-  All-in-one AI video generator with access to multiple models (Veo, Kling, etc.) plus timeline editing.
+| Name | First Accelerator | Description |
+| :--- | :--- | :--- |
+| **[Elai.io](https://elai.io/)** | **Startup Wise Guys** | Presentation-to-video and script-to-video agent with 450+ accents and emotion-preserving cloning. |
+| **[D-ID](https://www.d-id.com/)** | **YC** (W20) | Real-time talking-head video agent. Image + script → streaming avatars. Great for interactive video. |
+| **[Fliki](https://fliki.ai/)** | None (Bootstrapped) | Text-to-video agent with lifelike voiceovers, B-roll, and social-ready editing (Shorts, Reels, TikTok). |
+| **[Veed.io AI](https://www.veed.io/tools/ai-video)** | None (Bootstrapped) | All-in-one AI video generator with access to multiple models (Veo, Kling, etc.) plus timeline editing. |
 
 **Other notable mentions**: InVideo AI, Creatify, CapCut AI, ElevenLabs (integrated video/voice agents), and direct access to Sora 2 (via ChatGPT) or Veo 3.1 (via Gemini).
 
@@ -68,20 +53,14 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Dedicated Video AI Agent Projects
 
-- **[AI-Video-Generation-System](https://github.com/Adrian333Dev/AI-Video-Generation-System)**  
-  Full AI Video Generator Agent that orchestrates end-to-end creation (scripting, generation, editing). Designed as a revolutionary autonomous agent for digital content.
+| Name | First Accelerator | Description |
+| :--- | :--- | :--- |
+| **[AI-Video-Generation-System](https://github.com/Adrian333Dev/AI-Video-Generation-System)** | None | Full AI Video Generator Agent that orchestrates end-to-end creation (scripting, generation, editing). |
+| **[Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI)** | None | Complete agentic pipeline: GPT-4/Groq/Gemini auto-generates scripts → video creation with multiple LLM providers. |
+| **[Wan2.1](https://github.com/Wan-Video/Wan2.1)** | None (Alibaba) | Best free/self-hostable open-source video generation model. High-quality text-to-video, no limits. |
+| **[HunyuanVideo](https://github.com/Tencent/HunyuanVideo)** | None (Tencent) | Tencent’s open-source video generation model. Strong multi-style support and consumer GPU compatibility. |
+| **[CogVideo](https://github.com/zai-org/CogVideo)** | None (Zhipu AI) | High-fidelity text/image-to-video generation model (CogVideoX). Excellent base for building custom agents. |
 
-- **[Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI)**  
-  Complete agentic pipeline: GPT-4/Groq/Gemini auto-generates scripts → video creation with multiple LLM providers + FFmpeg/OpenCV post-processing.
-
-- **[Wan2.1](https://github.com/Wan-Video/Wan2.1)**  
-  Best free/self-hostable open-source video generation model. High-quality text-to-video, no limits, runs on consumer hardware.
-
-- **[HunyuanVideo](https://github.com/Tencent/HunyuanVideo)**  
-  Tencent’s open-source video generation model. Strong multi-style support and consumer GPU compatibility.
-
-- **[CogVideo](https://github.com/zai-org/CogVideo)** (CogVideoX)  
-  High-fidelity text/image-to-video generation model (12.5k+ stars). Excellent base for building custom video agents.
 
 ### Frameworks for Building Video Agents
 General agent frameworks (LangGraph, CrewAI, Langflow) + ComfyUI video workflows are widely used to create custom agents on top of the above models or SaaS APIs. See the [awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) and [Media-AI](https://github.com/jayeshmepani/Media-AI) repos for more templates and examples.
