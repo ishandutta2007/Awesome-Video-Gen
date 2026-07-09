@@ -22,30 +22,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ### Core Platforms (Full AI Video Agents / Avatar Workflows)
 
-| Name | First Accelerator | Description |
-| :--- | :--- | :--- |
-| **[Argil](https://www.argil.ai/)** | **YC** (S24) | Leading AI video agent for creators and brands. Clone yourself with 1 min voice/photo. Agentic workflow: idea/article → auto-script → polished video. |
-| **[Synthesia](https://www.synthesia.io/)** | None | Enterprise-grade AI avatar platform. 230+ realistic avatars, 160+ languages. Market leader for business training and internal comms. |
-| **[HeyGen](https://www.heygen.com/)** | None | Fast-growing AI video agent for marketing/sales. 500+ avatars, instant translation, and multi-language voiceovers. |
-| **[Vidnoz](https://www.vidnoz.com/)** | None | Best free-tier AI video generator. 1,900+ avatars and 2,800+ templates. Fully automated workflow from prompt to output. |
-| **[Zoice](https://zoice.com/)** | None | Top Argil alternative focused on hyper-stable AI avatars and social media videos. Strong motion consistency and facial accuracy. |
+| Name | First Accelerator | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Argil](https://www.argil.ai/)** | **YC** (S24) | Leading AI video agent for creators and brands. Clone yourself with 1 min voice/photo. Agentic workflow: idea/article → auto-script → polished video. | Starts at $39/mo | 3 mins/mo |
+| **[Synthesia](https://www.synthesia.io/)** | None | Enterprise-grade AI avatar platform. 230+ realistic avatars, 160+ languages. Market leader for business training and internal comms. | Starts at $29/mo | 10 mins/mo |
+| **[HeyGen](https://www.heygen.com/)** | None | Fast-growing AI video agent for marketing/sales. 500+ avatars, instant translation, and multi-language voiceovers. | Starts at $29/mo | 3 videos/mo |
+| **[Vidnoz](https://www.vidnoz.com/)** | None | Best free-tier AI video generator. 1,900+ avatars and 2,800+ templates. Fully automated workflow from prompt to output. | Starts at ~$14/mo | ~3 mins/day |
+| **[Zoice](https://zoice.com/)** | None | Top Argil alternative focused on hyper-stable AI avatars and social media videos. Strong motion consistency and facial accuracy. | Starts at $7.99/mo | 50 credits/day |
 
 ### Advanced & Creative Video Agents
 
-| Name | First Accelerator | Description |
-| :--- | :--- | :--- |
-| **[Runway](https://runwayml.com/)** | None | Professional-grade AI video agent with cinematic control (Gen-3, Gen-4). Used by filmmakers and studios. |
-| **[Kling AI](https://klingai.com/)** | None (Kuaishou) | Photorealistic human motion and physics-aware video agent. Excellent for realistic characters and complex scenes. |
-| **[Colossyan](https://www.colossyan.com/)** | **APX** (2019) / **YC** | Specialized in corporate training and interactive scenarios. Scenario-based avatars and SCORM support. |
+| Name | First Accelerator | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Runway](https://runwayml.com/)** | None | Professional-grade AI video agent with cinematic control (Gen-3, Gen-4). Used by filmmakers and studios. | Starts at $15/mo | 125 one-time credits |
+| **[Kling AI](https://klingai.com/)** | None (Kuaishou) | Photorealistic human motion and physics-aware video agent. Excellent for realistic characters and complex scenes. | Starts at $6.99/mo | ~66 credits/day |
+| **[Colossyan](https://www.colossyan.com/)** | **APX** (2019) / **YC** | Specialized in corporate training and interactive scenarios. Scenario-based avatars and SCORM support. | Starts at $19/mo | 14-day trial |
 
 ### Specialized & Workflow Agents
 
-| Name | First Accelerator | Description |
-| :--- | :--- | :--- |
-| **[Elai.io](https://elai.io/)** | **Startup Wise Guys** | Presentation-to-video and script-to-video agent with 450+ accents and emotion-preserving cloning. |
-| **[D-ID](https://www.d-id.com/)** | **YC** (W20) | Real-time talking-head video agent. Image + script → streaming avatars. Great for interactive video. |
-| **[Fliki](https://fliki.ai/)** | None (Bootstrapped) | Text-to-video agent with lifelike voiceovers, B-roll, and social-ready editing (Shorts, Reels, TikTok). |
-| **[Veed.io AI](https://www.veed.io/tools/ai-video)** | None (Bootstrapped) | All-in-one AI video generator with access to multiple models (Veo, Kling, etc.) plus timeline editing. |
+| Name | First Accelerator | Description | Pricing | Free Tier Limit |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Elai.io](https://elai.io/)** | **Startup Wise Guys** | Presentation-to-video and script-to-video agent with 450+ accents and emotion-preserving cloning. | Starts at $29/mo | 1 min total |
+| **[D-ID](https://www.d-id.com/)** | **YC** (W20) | Real-time talking-head video agent. Image + script → streaming avatars. Great for interactive video. | Starts at ~$5.90/mo | 14-day trial (~5 mins) |
+| **[Fliki](https://fliki.ai/)** | None (Bootstrapped) | Text-to-video agent with lifelike voiceovers, B-roll, and social-ready editing (Shorts, Reels, TikTok). | Starts at ~$28/mo | 5 mins/mo |
+| **[Veed.io AI](https://www.veed.io/tools/ai-video)** | None (Bootstrapped) | All-in-one AI video generator with access to multiple models (Veo, Kling, etc.) plus timeline editing. | Starts at $24/mo | Max 10 mins/project |
 
 **Other notable mentions**: InVideo AI, Creatify, CapCut AI, ElevenLabs (integrated video/voice agents), and direct access to Sora 2 (via ChatGPT) or Veo 3.1 (via Gemini).
 
