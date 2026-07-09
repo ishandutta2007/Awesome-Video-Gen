@@ -55,11 +55,11 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 | Name | First Accelerator | Description |
 | :--- | :--- | :--- |
-| **[AI-Video-Generation-System](https://github.com/Adrian333Dev/AI-Video-Generation-System)** | None | Full AI Video Generator Agent that orchestrates end-to-end creation (scripting, generation, editing). |
-| **[Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI)** | None | Complete agentic pipeline: GPT-4/Groq/Gemini auto-generates scripts → video creation with multiple LLM providers. |
-| **[Wan2.1](https://github.com/Wan-Video/Wan2.1)** | None (Alibaba) | Best free/self-hostable open-source video generation model. High-quality text-to-video, no limits. |
-| **[HunyuanVideo](https://github.com/Tencent/HunyuanVideo)** | None (Tencent) | Tencent’s open-source video generation model. Strong multi-style support and consumer GPU compatibility. |
-| **[CogVideo](https://github.com/zai-org/CogVideo)** | None (Zhipu AI) | High-fidelity text/image-to-video generation model (CogVideoX). Excellent base for building custom agents. |
+| **[Wan2.1](https://github.com/Wan-Video/Wan2.1)** [![Stars](https://img.shields.io/github/stars/Wan-Video/Wan2.1?style=social&color=white)](https://github.com/Wan-Video/Wan2.1/stargazers) | None (Alibaba) | Best free/self-hostable open-source video generation model. High-quality text-to-video, no limits. |
+| **[CogVideo](https://github.com/zai-org/CogVideo)** [![Stars](https://img.shields.io/github/stars/zai-org/CogVideo?style=social&color=white)](https://github.com/zai-org/CogVideo/stargazers) | None (Zhipu AI) | High-fidelity text/image-to-video generation model (CogVideoX). Excellent base for building custom agents. |
+| **[HunyuanVideo](https://github.com/Tencent/HunyuanVideo)** [![Stars](https://img.shields.io/github/stars/Tencent/HunyuanVideo?style=social&color=white)](https://github.com/Tencent/HunyuanVideo/stargazers) | None (Tencent) | Tencent’s open-source video generation model. Strong multi-style support and consumer GPU compatibility. |
+| **[Text-To-Video-AI](https://github.com/SamurAIGPT/Text-To-Video-AI)** [![Stars](https://img.shields.io/github/stars/SamurAIGPT/Text-To-Video-AI?style=social&color=white)](https://github.com/SamurAIGPT/Text-To-Video-AI/stargazers) | None | Complete agentic pipeline: GPT-4/Groq/Gemini auto-generates scripts → video creation with multiple LLM providers. |
+| **[AI-Video-Generation-System](https://github.com/Adrian333Dev/AI-Video-Generation-System)** [![Stars](https://img.shields.io/github/stars/Adrian333Dev/AI-Video-Generation-System?style=social&color=white)](https://github.com/Adrian333Dev/AI-Video-Generation-System/stargazers) | None | Full AI Video Generator Agent that orchestrates end-to-end creation (scripting, generation, editing). |
 
 
 ### Frameworks for Building Video Agents
