@@ -1,6 +1,10 @@
-# Awesome-Video-Gen
+# 🎬 Awesome-Video-Gen
 
-## Video Generation AI Agents Ecosystem
+<p align="center">
+  <img src="assets/banner.svg" alt="Banner">
+</p>
+
+## 🤖 Video Generation AI Agents Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on AI Agents for Video Creation*  
@@ -12,13 +16,13 @@ This repository tracks notable **SaaS platforms** and **open-source projects** b
 
 Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
 
-## Table of Contents
+## 📋 Table of Contents
 - [SaaS Products](#saas-products)
 - [Open-Source GitHub Projects](#open-source-github-projects)
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## SaaS Products
+## ☁️ SaaS Products
 
 ### Core Platforms (Full AI Video Agents / Avatar Workflows)
 
@@ -49,7 +53,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 **Other notable mentions**: InVideo AI, Creatify, CapCut AI, ElevenLabs (integrated video/voice agents), and direct access to Sora 2 (via ChatGPT) or Veo 3.1 (via Gemini).
 
-## Open-Source GitHub Projects
+## 🔓 Open-Source GitHub Projects
 
 ### Dedicated Video AI Agent Projects
 
@@ -65,7 +69,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 ### Frameworks for Building Video Agents
 General agent frameworks (LangGraph, CrewAI, Langflow) + ComfyUI video workflows are widely used to create custom agents on top of the above models or SaaS APIs. See the [awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) and [Media-AI](https://github.com/jayeshmepani/Media-AI) repos for more templates and examples.
 
-## How to Contribute
+## 🤝 How to Contribute
 
 1. Fork the repo.
 2. Add/edit entries in `README.md` (follow existing format).
@@ -74,7 +78,7 @@ General agent frameworks (LangGraph, CrewAI, Langflow) + ComfyUI video workflows
 
 Star the repo if you find it useful!
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 - This is a **community-curated** list — not exhaustive and not an endorsement.
 - Always check licensing, content usage rights, and platform terms (especially for commercial use or deepfakes).
