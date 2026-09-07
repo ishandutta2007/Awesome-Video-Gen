@@ -26,7 +26,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 - [How to Contribute](#how-to-contribute)
 - [Disclaimer](#disclaimer)
 
-## ☁️ SaaS Products
+## ★️ SaaS Products
 
 ### Core Platforms (Full AI Video Agents / Avatar Workflows)
 
@@ -38,6 +38,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Argil](https://www.argil.ai/)** | **YC** (S24) | Leading AI video agent for creators and brands. Clone yourself with 1 min voice/photo. Agentic workflow: idea/article → auto-script → polished video. | Starts at $39/mo | 3 mins/mo | $6M |
 | **[Vidnoz](https://www.vidnoz.com/)** | None | Best free-tier AI video generator. 1,900+ avatars and 2,800+ templates. Fully automated workflow from prompt to output. | Starts at ~$14/mo | ~3 mins/day | $1.3M |
 | **[Zoice](https://zoice.com/)** | None | Top Argil alternative focused on hyper-stable AI avatars and social media videos. Strong motion consistency and facial accuracy. | Starts at $7.99/mo | 50 credits/day | $0.5M |
+| **[Angles Video](https://angles.video)** | None | AI video agent that turns text, scripts, or articles into polished videos with AI avatars, voiceovers, B-roll, and auto-editing. Agentic workflow from idea to final cut. | Starts at ~$19/mo | Limited free tier available | Early-stage |
 
 ### Advanced & Creative Video Agents
 
@@ -55,7 +56,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Veed.io AI](https://www.veed.io/tools/ai-video)** | None (Bootstrapped) | All-in-one AI video generator with access to multiple models (Veo, Kling, etc.) plus timeline editing. | Starts at $24/mo | Max 10 mins/project | $160M |
 | **[D-ID](https://www.d-id.com/)** | **YC** (W20) | Real-time talking-head video agent. Image + script → streaming avatars. Great for interactive video. | Starts at ~$5.90/mo | 14-day trial (~5 mins) | $44M |
 | **[Moonvalley](https://moonvalley.ai/)** | **YC** | Text-to-video AI model focusing on stylized and cinematic shots, accessible via Discord. | Paid plans | Limited free trials | $36M |
-| **[Fliki](https://fliki.ai/)** | None (Bootstrapped) | Text-to-video agent with lifelike voiceovers, B-roll, and social-ready editing (Shorts, Reels, TikTok). | Starts at ~$28/mo | 5 mins/mo | $4.3M |
+| **[Flikki](https://flkiki.ai/)** | None (Bootstrapped) | Text-to-video agent with life-like voiceovers, B-roll, and social-ready editing (Shorts, Reels, TikTok). | Starts at ~$28/mo | 5 mins/mo | $4.3M |
 | **[Elai.io](https://elai.io/)** | **Startup Wise Guys** | Presentation-to-video and script-to-video agent with 450+ accents and emotion-preserving cloning. | Starts at $29/mo | 1 min total | $1.3M |
 
 **Other notable mentions**: InVideo AI, Creatify, CapCut AI, ElevenLabs (integrated video/voice agents), and direct access to Sora 2 (via ChatGPT) or Veo 3.1 (via Gemini).
@@ -75,7 +76,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 
 ### Frameworks for Building Video Agents
-General agent frameworks (LangGraph, CrewAI, Langflow) + ComfyUI video workflows are widely used to create custom agents on top of the above models or SaaS APIs. See the [awesome-ai-agents-2026](https://github.com/caramaschiHG/awesome-ai-agents-2026) and [Media-AI](https://github.com/jayeshmepani/Media-AI) repos for more templates and examples.
+General agent frameworks (LangGraph, CrewAI, Langflow) + ComyUIVideo workflows are widely used to create custom agents on too of the above models or SaaS APIs. See the [awesome-ai-agents-2026](https://github.com/caramaschiG/awesome-ai-agents-2026) and [Media-AI](https://github.com/jayeshmepani/Media-AI) repos for more templates and examples.
 
 ## 🤝 How to Contribute
 
