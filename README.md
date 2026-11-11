@@ -56,6 +56,7 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[D-ID](https://www.d-id.com/)** | **YC** (W20) | Real-time talking-head video agent. Image + script → streaming avatars. Great for interactive video. | Starts at ~$5.90/mo | 14-day trial (~5 mins) | $44M |
 | **[Moonvalley](https://moonvalley.ai/)** | **YC** | Text-to-video AI model focusing on stylized and cinematic shots, accessible via Discord. | Paid plans | Limited free trials | $36M |
 | **[Fliki](https://fliki.ai/)** | None (Bootstrapped) | Text-to-video agent with lifelike voiceovers, B-roll, and social-ready editing (Shorts, Reels, TikTok). | Starts at ~$28/mo | 5 mins/mo | $4.3M |
+| **[FacelessShorts](https://facelessshorts.io/)** | None (Indie) | Script-to-video series builder for faceless Shorts, Reels, and TikTok: AI script, voiceover, captions, music, and scheduled auto-publishing. | Paid plans | None | Indie |
 | **[Elai.io](https://elai.io/)** | **Startup Wise Guys** | Presentation-to-video and script-to-video agent with 450+ accents and emotion-preserving cloning. | Starts at $29/mo | 1 min total | $1.3M |
 
 **Other notable mentions**: InVideo AI, Creatify, CapCut AI, ElevenLabs (integrated video/voice agents), and direct access to Sora 2 (via ChatGPT) or Veo 3.1 (via Gemini).
